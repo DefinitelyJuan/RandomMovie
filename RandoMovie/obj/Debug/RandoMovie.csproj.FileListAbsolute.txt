@@ -1,0 +1,7 @@
+C:\Users\moroc\source\repos\RandoMovie\RandoMovie\bin\Debug\RandoMovie.exe.config
+C:\Users\moroc\source\repos\RandoMovie\RandoMovie\bin\Debug\RandoMovie.exe
+C:\Users\moroc\source\repos\RandoMovie\RandoMovie\bin\Debug\RandoMovie.pdb
+C:\Users\moroc\source\repos\RandoMovie\RandoMovie\obj\Debug\RandoMovie.csprojAssemblyReference.cache
+C:\Users\moroc\source\repos\RandoMovie\RandoMovie\obj\Debug\RandoMovie.csproj.CoreCompileInputs.cache
+C:\Users\moroc\source\repos\RandoMovie\RandoMovie\obj\Debug\RandoMovie.exe
+C:\Users\moroc\source\repos\RandoMovie\RandoMovie\obj\Debug\RandoMovie.pdb
